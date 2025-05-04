@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1746352649 source:d:\ltnc\sdl1\main.cpp
+	"Game.h"
+
+1740186767 source:d:\ltnc\sdl1\untitled1.c
+
+1746201557 d:\ltnc\sdl1\defs.h
+
+1745682455 source:d:\ltnc\sdl1\graphics.cpp
+	"Graphics.h"
+	<iostream>
+
+1746200418 d:\ltnc\sdl1\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"logic.h"
+
+1746201788 d:\ltnc\sdl1\logic.h
+
+1746199561 source:d:\ltnc\sdl1\bullet.cpp
+	"Bullet.h"
+
+1746199733 d:\ltnc\sdl1\bullet.h
+	<SDL.h>
+
+1746199733 source:d:\ltnc\sdl1\target.cpp
+	"Target.h"
+	<SDL_image.h>
+
+1746199744 d:\ltnc\sdl1\target.h
+	<SDL.h>
+
+1746199561 source:d:\ltnc\sdl1\plane.cpp
+	"Plane.h"
+	<SDL_image.h>
+
+1746199733 d:\ltnc\sdl1\plane.h
+	<SDL.h>
+
+1746361108 d:\ltnc\sdl1\game.h
+	<SDL.h>
+	"Player.h"
+	"Obstacle.h"
+
+1746358898 d:\ltnc\sdl1\player.h
+	<SDL.h>
+
+1746361572 d:\ltnc\sdl1\obstacle.h
+	<SDL.h>
+
+1746352822 source:d:\ltnc\sdl1\obstacle.cpp
+	"Obstacle.h"
+	<SDL_image.h>
+
+1746361263 source:d:\ltnc\sdl1\player.cpp
+	"Player.h"
+	<SDL_image.h>
+
+1746359268 source:d:\ltnc\sdl1\game.cpp
+	"Game.h"
+	<SDL_image.h>
+	<cstdlib>
+	<ctime>
+
+1746361572 source:d:\ltnc\avoid obstacles\game.cpp
+	"Game.h"
+	<SDL_image.h>
+	<cstdlib>
+	<ctime>
+
+1746361108 d:\ltnc\avoid obstacles\game.h
+	<SDL.h>
+	"Player.h"
+	"Obstacle.h"
+
+1746358898 d:\ltnc\avoid obstacles\player.h
+	<SDL.h>
+
+1746361572 d:\ltnc\avoid obstacles\obstacle.h
+	<SDL.h>
+
+1746352649 source:d:\ltnc\avoid obstacles\main.cpp
+	"Game.h"
+
+1746352822 source:d:\ltnc\avoid obstacles\obstacle.cpp
+	"Obstacle.h"
+	<SDL_image.h>
+
+1746361263 source:d:\ltnc\avoid obstacles\player.cpp
+	"Player.h"
+	<SDL_image.h>
+
